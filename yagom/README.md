@@ -7,4 +7,4 @@
 ## 완성본 - 성공 버전
 ![success](https://user-images.githubusercontent.com/41350477/136647068-ac224d13-154d-4c5d-9f54-92437c11d472.gif)
 ## 완성본 - 실패버전
-![Uploading fail.gif…]()
+![fail](https://user-images.githubusercontent.com/41350477/136647089-7a1d69b8-7850-4680-b1b2-d1bbbb7fd966.gif)
